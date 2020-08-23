@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Android & Kotlin](https://cdn.lowgif.com/medium/692d87250a19ff4e-.gif)
 <!--
 **HaKIMus/HaKIMus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
